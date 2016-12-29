@@ -12,7 +12,7 @@ This program runs in discrete time steps. Whenever the uesr presses `Start`, the
 6. Test cases are available in SystemTest.java, found in the root directory.
 
 ## Compiling the Source Code
-The source code can be compiled using the provided Makefile. The Makefile is located in MEC-Team1-Code/Competition/src.
+The source code can be compiled using the provided Makefile.
 
 Type `make` to compile the source code. To run the source code, type `./run.sh` in the terminal, or double click on the Main.jar file.
 
