@@ -17,4 +17,5 @@ manifest: $(classes)
 clean:
 	rm competition/*.class
 	rm *.jar
+	rm run.sh
 	rm Manifest.txt
