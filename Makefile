@@ -2,7 +2,7 @@ all: classes run manifest
 
 run: $(classes)
 	echo "#!/bin/bash" > run.sh
-	echo "java -cp competition/Run" >> run.sh
+	echo "java -jar Main.jar" >> run.sh
 	chmod 754 run.sh 
 
 classes:
