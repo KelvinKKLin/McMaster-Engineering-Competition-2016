@@ -1,4 +1,5 @@
-#McMaster Engineering Competition (Programming Division) 2016 Weather Station Simulation
+# McMaster Engineering Competition (Programming Division) 2016 Weather Station Simulation
+
 This project simulates a weather system that broadcasts weather information and alerts sailors of critical/dangerous conditions. It was created for the McMaster Engineering Competition (Programming Division) 2016, where it received third place out of 20 participating teams.
 
 This program runs in discrete time steps. Whenever the uesr presses `Start`, the program simulates 1 time step.
